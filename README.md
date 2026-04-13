@@ -182,7 +182,7 @@ with open('./quantized/tokenizer.json', 'w') as f:
 
 ## Use Case / 활용 사례
 
-이 모델은 [구다경(Guda Sutra)](https://github.com/kimdzhekhon/Guda-Sutra) Flutter 앱에서 사용됩니다.
+이 모델은 (Guda Sutra)(https://github.com/kimdzhekhon/Guda-Sutra) Flutter 앱에서 사용됩니다.
 
 - 사용자가 한국어로 질문 (예: "고통의 원인은 무엇인가")
 - 온디바이스 EmbeddingGemma 양자화 모델로 질문 임베딩 생성 (256d)
